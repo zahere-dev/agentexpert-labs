@@ -1,0 +1,18 @@
+mcp[cli]
+openai
+fastapi
+langchain
+langchain_openai
+langgraph==0.6.6
+langgraph-prebuilt==0.6.4
+python-dotenv
+loguru # or use logging
+requests
+pytz
+streamlit
+websockets
+websocket-client
+pydantic
+aiohttp
+pyjwt
+ipykernel
