@@ -2,6 +2,9 @@
 
 A comprehensive implementation of different routing strategies in LangGraph for building intelligent agent workflows. This project demonstrates four distinct routing approaches using a realistic customer service use case.
 
+![Routing Example](./routing.png)
+
+
 ## 🎯 Overview
 
 This project showcases how to implement different routing mechanisms in LangGraph to direct user queries to appropriate specialized handlers. Using a customer service scenario, we demonstrate how different types of customer inquiries can be automatically routed to the right department or handler.
