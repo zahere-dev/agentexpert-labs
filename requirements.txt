@@ -16,3 +16,4 @@ pydantic
 aiohttp
 pyjwt
 ipykernel
+scikit-learn
