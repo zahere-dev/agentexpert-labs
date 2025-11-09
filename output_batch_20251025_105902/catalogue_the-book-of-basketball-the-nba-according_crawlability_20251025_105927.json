@@ -1,0 +1,10 @@
+{
+  "gptbot_allowed": null,
+  "robots_txt_exists": false,
+  "content_in_html": true,
+  "javascript_required": false,
+  "recommendations": [
+    "\u26a0\ufe0f robots.txt not found - consider adding one",
+    "\u2713 Product content is in raw HTML (good for crawlers)"
+  ]
+}

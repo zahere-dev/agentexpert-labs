@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Product Feed</title>
+    <link>output_batch_20251025_105902</link>
+    <description>Auto-generated product feed for 3 products</description>
+    <lastBuildDate>20251025_105902</lastBuildDate>
+    <item>
+      <g:id>a897fe39b1053632</g:id>
+      <g:title><![CDATA[Discover the Joy of Poetry with Shel Silverstein's A Light in the Attic]]></g:title>
+      <g:description><![CDATA[A Light in the Attic is a delightful collection of poetry and illustrations by Shel Silverstein, perfect for sparking creativity and laughter in readers of all ages. This special 20th-anniversary edition is best for families looking to share whimsical stories, educators seeking engaging material for their classrooms, or anyone wanting to enjoy a nostalgic trip through imaginative verse.]]></g:description>
+      <g:link>https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html</g:link>
+      <g:image_link>https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg</g:image_link>
+      <g:availability>InStock</g:availability>
+      <g:price>£51.77 GBP</g:price>
+      <g:brand>Shel Silverstein</g:brand>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>08decd9664e5d56e</g:id>
+      <g:title><![CDATA[Discover the Ultimate NBA Experience with Bill Simmons' The Book of Basketball]]></g:title>
+      <g:description><![CDATA[The Book of Basketball is perfect for basketball enthusiasts and fans who want to dive deep into the NBA's history. Bill Simmons offers a unique perspective on the league's greatest debates and a fresh take on Hall of Fame selections, making it an engaging read for anyone looking to understand the game better.]]></g:description>
+      <g:link>https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html</g:link>
+      <g:image_link>https://books.toscrape.com/media/cache/73/bb/73bbe0a70806f8a732b9a7a7a343c5ec.jpg</g:image_link>
+      <g:availability>InStock</g:availability>
+      <g:price>£44.84 GBP</g:price>
+      <g:brand>Bill Simmons</g:brand>
+      <g:condition>new</g:condition>
+    </item>
+    <item>
+      <g:id>6be3beb0793a53e7</g:id>
+      <g:title><![CDATA[Discover Philosophy with Sophie's World: A Journey Through Thought]]></g:title>
+      <g:description><![CDATA[Sophie's World is perfect for anyone curious about philosophy. This engaging novel invites readers to explore profound ideas while following Sophie on her enlightening journey.]]></g:description>
+      <g:link>https://books.toscrape.com/catalogue/sophies-world_966/index.html</g:link>
+      <g:image_link>https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg</g:image_link>
+      <g:availability>InStock</g:availability>
+      <g:price>£15.94 GBP</g:price>
+      <g:brand>Unknown Brand</g:brand>
+      <g:condition>new</g:condition>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "The Book of Basketball: The NBA According to The Sports Guy",
+  "description": "The Book of Basketball is a comprehensive and entertaining look at the NBA, written by Bill Simmons. It covers major basketball debates and reevaluates how Hall of Fame inductees should be chosen.",
+  "sku": "08decd9664e5d56e",
+  "brand": {
+    "@type": "Brand",
+    "name": "Bill Simmons"
+  },
+  "image": [
+    "https://books.toscrape.com/media/cache/73/bb/73bbe0a70806f8a732b9a7a7a343c5ec.jpg",
+    "https://books.toscrape.com/media/cache/f4/83/f4835e9f3fdd8b8107bbb39a391654f0.jpg",
+    "https://books.toscrape.com/media/cache/da/47/da4746e620f8ccd7cf20628d1a5e535a.jpg",
+    "https://books.toscrape.com/media/cache/c7/21/c721943edf481cad5ab32505e2ad3865.jpg",
+    "https://books.toscrape.com/media/cache/fa/65/fa653fbe3a4c69227c9b79d471cee576.jpg"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html",
+    "priceCurrency": "GBP",
+    "price": "\u00a344.84",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock"
+  }
+}

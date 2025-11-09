@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Product Feed</title>
+    <link>https://books.toscrape.com/catalogue/sophies-world_966/index.html</link>
+    <description>Auto-generated product feed</description>
+    <lastBuildDate>2025-10-25 10:59:43</lastBuildDate>
+    <item>
+      <g:id>6be3beb0793a53e7</g:id>
+      <g:title><![CDATA[Discover Philosophy with Sophie's World: A Journey Through Thought]]></g:title>
+      <g:description><![CDATA[Sophie's World is perfect for anyone curious about philosophy. This engaging novel invites readers to explore profound ideas while following Sophie on her enlightening journey.]]></g:description>
+      <g:link>https://books.toscrape.com/catalogue/sophies-world_966/index.html</g:link>
+      <g:image_link>https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg</g:image_link>
+      <g:availability>InStock</g:availability>
+      <g:price>£15.94 GBP</g:price>
+      <g:brand>Unknown Brand</g:brand>
+      <g:condition>new</g:condition>
+    </item>
+  </channel>
+</rss>

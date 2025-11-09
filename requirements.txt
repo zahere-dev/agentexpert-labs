@@ -17,3 +17,6 @@ aiohttp
 pyjwt
 ipykernel
 scikit-learn
+beautifulsoup4
+langchain-openai
+python-dotenv

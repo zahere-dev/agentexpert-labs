@@ -1,0 +1,80 @@
+{
+  "timestamp": "20251025_105902",
+  "total_products": 3,
+  "successful": 3,
+  "failed": 0,
+  "results": [
+    {
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "status": "success",
+      "product_name": "A Light in the Attic",
+      "is_valid": true,
+      "files": [
+        "output_batch_20251025_105902/catalogue_a-light-in-the-attic_1000_index.html_20251025_105912.html",
+        "output_batch_20251025_105902/catalogue_a-light-in-the-attic_1000_index.html_schema_20251025_105912.json",
+        "output_batch_20251025_105902/catalogue_a-light-in-the-attic_1000_index.html_feed_20251025_105912.xml",
+        "output_batch_20251025_105902/catalogue_a-light-in-the-attic_1000_index.html_crawlability_20251025_105912.json"
+      ],
+      "errors": [],
+      "feed_data": {
+        "id": "a897fe39b1053632",
+        "title": "Discover the Joy of Poetry with Shel Silverstein's A Light in the Attic",
+        "description": "A Light in the Attic is a delightful collection of poetry and illustrations by Shel Silverstein, perfect for sparking creativity and laughter in readers of all ages. This special 20th-anniversary edition is best for families looking to share whimsical stories, educators seeking engaging material for their classrooms, or anyone wanting to enjoy a nostalgic trip through imaginative verse.",
+        "link": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "image_link": "https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg",
+        "availability": "InStock",
+        "price": "\u00a351.77 GBP",
+        "brand": "Shel Silverstein",
+        "condition": "new"
+      }
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html",
+      "status": "success",
+      "product_name": "The Book of Basketball: The NBA According to The Sports Guy",
+      "is_valid": true,
+      "files": [
+        "output_batch_20251025_105902/catalogue_the-book-of-basketball-the-nba-according_20251025_105927.html",
+        "output_batch_20251025_105902/catalogue_the-book-of-basketball-the-nba-according_schema_20251025_105927.json",
+        "output_batch_20251025_105902/catalogue_the-book-of-basketball-the-nba-according_feed_20251025_105927.xml",
+        "output_batch_20251025_105902/catalogue_the-book-of-basketball-the-nba-according_crawlability_20251025_105927.json"
+      ],
+      "errors": [],
+      "feed_data": {
+        "id": "08decd9664e5d56e",
+        "title": "Discover the Ultimate NBA Experience with Bill Simmons' The Book of Basketball",
+        "description": "The Book of Basketball is perfect for basketball enthusiasts and fans who want to dive deep into the NBA's history. Bill Simmons offers a unique perspective on the league's greatest debates and a fresh take on Hall of Fame selections, making it an engaging read for anyone looking to understand the game better.",
+        "link": "https://books.toscrape.com/catalogue/the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html",
+        "image_link": "https://books.toscrape.com/media/cache/73/bb/73bbe0a70806f8a732b9a7a7a343c5ec.jpg",
+        "availability": "InStock",
+        "price": "\u00a344.84 GBP",
+        "brand": "Bill Simmons",
+        "condition": "new"
+      }
+    },
+    {
+      "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+      "status": "success",
+      "product_name": "Sophie's World",
+      "is_valid": true,
+      "files": [
+        "output_batch_20251025_105902/catalogue_sophies-world_966_index.html_20251025_105943.html",
+        "output_batch_20251025_105902/catalogue_sophies-world_966_index.html_schema_20251025_105943.json",
+        "output_batch_20251025_105902/catalogue_sophies-world_966_index.html_feed_20251025_105943.xml",
+        "output_batch_20251025_105902/catalogue_sophies-world_966_index.html_crawlability_20251025_105943.json"
+      ],
+      "errors": [],
+      "feed_data": {
+        "id": "6be3beb0793a53e7",
+        "title": "Discover Philosophy with Sophie's World: A Journey Through Thought",
+        "description": "Sophie's World is perfect for anyone curious about philosophy. This engaging novel invites readers to explore profound ideas while following Sophie on her enlightening journey.",
+        "link": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+        "image_link": "https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg",
+        "availability": "InStock",
+        "price": "\u00a315.94 GBP",
+        "brand": "Unknown Brand",
+        "condition": "new"
+      }
+    }
+  ]
+}

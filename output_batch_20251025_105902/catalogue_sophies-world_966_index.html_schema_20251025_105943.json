@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Sophie's World",
+  "description": "A page-turning novel that explores the great philosophical concepts of Western thought. Sophie Amundsen receives mysterious letters that lead her on a journey of self-discovery and philosophical inquiry.",
+  "sku": "6be3beb0793a53e7",
+  "brand": {
+    "@type": "Brand",
+    "name": "Unknown Brand"
+  },
+  "image": [
+    "https://books.toscrape.com/media/cache/d7/39/d73914232130fdf90d66f02fd9798f2b.jpg",
+    "https://books.toscrape.com/media/cache/96/ee/96ee77d71a31b7694dac6855f6affe4e.jpg",
+    "https://books.toscrape.com/media/cache/09/63/09638baaef52f03827c215029c632a13.jpg",
+    "https://books.toscrape.com/media/cache/0f/ca/0fca4597765ffacdb7bd529fc5eb88fa.jpg",
+    "https://books.toscrape.com/media/cache/7d/53/7d53e2264b9647ee307259be9f73585d.jpg"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html",
+    "priceCurrency": "GBP",
+    "price": "\u00a315.94",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock"
+  }
+}

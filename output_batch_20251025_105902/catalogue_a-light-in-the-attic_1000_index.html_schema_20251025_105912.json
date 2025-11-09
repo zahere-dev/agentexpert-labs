@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "A Light in the Attic",
+  "description": "A classic collection of poetry and drawings from Shel Silverstein, celebrating its 20th anniversary. This special edition features humorous and creative verse that can amuse readers of all ages.",
+  "sku": "a897fe39b1053632",
+  "brand": {
+    "@type": "Brand",
+    "name": "Shel Silverstein"
+  },
+  "image": [
+    "https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+    "priceCurrency": "GBP",
+    "price": "\u00a351.77",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock"
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Product Feed</title>
+    <link>https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html</link>
+    <description>Auto-generated product feed</description>
+    <lastBuildDate>2025-10-25 10:59:12</lastBuildDate>
+    <item>
+      <g:id>a897fe39b1053632</g:id>
+      <g:title><![CDATA[Discover the Joy of Poetry with Shel Silverstein's A Light in the Attic]]></g:title>
+      <g:description><![CDATA[A Light in the Attic is a delightful collection of poetry and illustrations by Shel Silverstein, perfect for sparking creativity and laughter in readers of all ages. This special 20th-anniversary edition is best for families looking to share whimsical stories, educators seeking engaging material for their classrooms, or anyone wanting to enjoy a nostalgic trip through imaginative verse.]]></g:description>
+      <g:link>https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html</g:link>
+      <g:image_link>https://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg</g:image_link>
+      <g:availability>InStock</g:availability>
+      <g:price>£51.77 GBP</g:price>
+      <g:brand>Shel Silverstein</g:brand>
+      <g:condition>new</g:condition>
+    </item>
+  </channel>
+</rss>
