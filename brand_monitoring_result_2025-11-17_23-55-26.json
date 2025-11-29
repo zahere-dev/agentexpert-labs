@@ -1,0 +1,104 @@
+[
+  {
+    "theme": "Tyre selection and maintenance tips",
+    "response": [
+      {
+        "query": "What are the best practices for maintaining car tyres?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "Rotating your tyres every 5,000 to 8,000 miles promotes even wear and extends their lifespan. Different rotation patterns apply depending on your vehicle's drivetrain; consult your owner's manual for guidance.",
+              "citation": "https://www.michelinman.com/auto/auto-tips-and-advice/tire-maintenance/routine-tire-care-tips?utm_source=openai",
+              "rank": 3
+            }
+          ],
+          "competition_data": [
+            {
+              "name": "Gulf News",
+              "response": "Maintain the correct tyre pressure as specified in your vehicle's manual or on the driver's side door panel. Incorrect pressure can lead to uneven wear, reduced fuel efficiency, and increased risk of blowouts. It's advisable to check tyre pressure every two weeks and before long trips.",
+              "citation": "https://gulfnews.com/living-in-uae/transport/uae-5-point-checklist-to-maintain-car-tyres-and-stay-safe-1.1673365271491?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "Al Tyres",
+              "response": "Examine your tyres monthly for signs of damage such as cuts, cracks, bulges, or embedded objects. Also, monitor tread depth to ensure it meets the legal minimum of 1.6mm. A simple method is the 'Penny Test': insert a coin into the tread grooves; if the outer band is visible, it's time to replace the tyre.",
+              "citation": "https://www.altyres.com.sg/resource-centre/maintenance-tips-to-avoid-frequent-tyre-repairs/?utm_source=openai",
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Electric vehicle tyre solutions",
+    "response": [
+      {
+        "query": "What are the best tyres for electric vehicles?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "Designed for high-performance EVs, this tire offers superior handling, sleek style, and low rolling resistance, enhancing both range and driving experience.",
+              "citation": "https://www.discountedwheelwarehouse.com/blog/post/tires/Tires-for-Electric-Vehicles?utm_source=openai",
+              "rank": 5
+            }
+          ],
+          "competition_data": [
+            {
+              "name": "Bridgestone",
+              "response": "A grand-touring all-season tire that prioritizes low rolling resistance to enhance EV range. It offers a quiet ride and comes with a 50,000-mile warranty.",
+              "citation": "https://www.cargurus.com/Cars/articles/picking-the-best-tires-for-your-ev?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "Continental",
+              "response": "Designed for luxury coupes, EVs, and sedans, this all-season tire provides exceptional braking and traction in both dry and wet conditions. It also offers excellent fuel efficiency and a quiet, comfortable ride.",
+              "citation": "https://www.discountedwheelwarehouse.com/blog/post/tires/Tires-for-Electric-Vehicles?utm_source=openai",
+              "rank": 2
+            },
+            {
+              "name": "Goodyear",
+              "response": "This all-season tire incorporates acoustic foam for noise reduction and is made with at least 50% sustainable materials. It delivers a smooth ride and quietness, making it suitable for various EV models.",
+              "citation": "https://www.recurrentauto.com/research/best-tires-for-electric-cars-in-2025?utm_source=openai",
+              "rank": 3
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Sustainable mobility and environmental impact",
+    "response": [
+      {
+        "query": "How do tyres impact the environment?",
+        "response": {
+          "brand_present": false,
+          "brand_data": [],
+          "competition_data": [
+            {
+              "name": "Wikipedia",
+              "response": "Tyres have several environmental impacts throughout their lifecycle, from production to disposal, including resource consumption, chemical use, microplastic pollution, and waste management challenges.",
+              "citation": "https://en.wikipedia.org/wiki/Tire?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "Wikipedia",
+              "response": "Tyre wear contributes to non-exhaust emissions, which include particulate matter that can affect air quality and human health.",
+              "citation": "https://en.wikipedia.org/wiki/Non-exhaust_emissions?utm_source=openai",
+              "rank": 2
+            },
+            {
+              "name": "Wikipedia",
+              "response": "Discarded tyres are bulky and non-biodegradable, making disposal problematic. Improperly managed tyre stockpiles can become breeding grounds for pests and pose fire hazards.",
+              "citation": "https://en.wikipedia.org/wiki/Tire_recycling?utm_source=openai",
+              "rank": 3
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

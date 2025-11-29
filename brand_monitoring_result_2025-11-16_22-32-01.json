@@ -1,0 +1,85 @@
+[
+  {
+    "theme": "Tyre selection and maintenance tips",
+    "response": [
+      {
+        "query": "What are the best practices for maintaining car tyres in India?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "Ensure that your tyre tread depth is above the minimum legal limit of 1.6 mm. Adequate tread depth is crucial for maintaining grip, especially on wet roads. You can use a tread depth gauge or look for tread wear indicators on the tyre.",
+              "citation": "https://www.michelin.in/auto/advice/change-tyres?utm_source=openai",
+              "rank": 3
+            }
+          ],
+          "competition_data": [
+            {
+              "name": "Goodyear",
+              "response": "Maintain the recommended tyre pressure as specified by your vehicle manufacturer. Incorrect pressure can lead to uneven wear, reduced fuel efficiency, and compromised handling. It's advisable to check tyre pressure at least once a month and before long trips.",
+              "citation": "https://www.goodyear.co.in/learn/tyre-care-and-maintenance-guide?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "Vredestein",
+              "response": "Regularly examine your tyres for signs of damage such as cuts, cracks, bulges, or embedded objects. If you notice any issues, have the tyre inspected by a professional to determine if it needs repair or replacement.",
+              "citation": "https://www.vredestein.co.in/content-hub/tyre-guide/car-suv-van/12-car-tyre-safety-and-maintenance-tips/?utm_source=openai",
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Electric vehicle tyre solutions",
+    "response": [
+      {
+        "query": "What are the best tyres for electric vehicles in India?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "Michelin's e\u00b7Primacy tyres are eco-designed to provide low rolling resistance, which can increase an EV's battery range by up to 7%. They also offer high standards of wet grip and longevity.",
+              "citation": "https://en.michelin.co.th/auto/advice/ev-guide/tyres-for-electric-cars?utm_source=openai",
+              "rank": 3
+            }
+          ],
+          "competition_data": [
+            {
+              "name": "Apollo Amperion",
+              "response": "Designed specifically for electric passenger vehicles, the Apollo Amperion offers low rolling resistance, reduced noise levels, and an aerodynamic sidewall. It has received a 5-star fuel savings rating from the Bureau of Energy Efficiency (BEE) in India.",
+              "citation": "https://corporate.apollotyres.com/press-and-media/news/corporate/Apollo-Tyres-Launches-EV-Specific-Tyres-for-Passenger-Cars-and-Two-Wheelers/?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "CEAT EnergyDrive",
+              "response": "CEAT's EnergyDrive tyres feature CALM (CEAT Acoustic Lowering Material) technology, which reduces noise by filtering and absorbing vibrations. The EasyFlex cavity design helps lower rolling resistance, enhancing the driving range of EVs.",
+              "citation": "https://timesofindia.indiatimes.com/auto/electric-cars/ceat-energydrive-is-indias-first-four-wheeler-tyre-made-for-evs-key-differences-explained/articleshow/93180531.cms?utm_source=openai",
+              "rank": 2
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Sustainable mobility and environmental impact",
+    "response": [
+      {
+        "query": "How can I choose sustainable tyres for my vehicle?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "Michelin's ePrimacy tire boasts a 27% reduction in rolling resistance, leading to significant fuel savings and lower emissions over its lifespan.",
+              "citation": "https://www.suburbantire.com/about-us/we-care-about-the-environment?utm_source=openai",
+              "rank": 1
+            }
+          ],
+          "competition_data": []
+        }
+      }
+    ]
+  }
+]

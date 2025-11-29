@@ -1,0 +1,85 @@
+[
+  {
+    "theme": "Tyre selection and maintenance for cars and motorbikes",
+    "response": [
+      {
+        "query": "How do I choose the right tyres for my car in India?",
+        "response": {
+          "brand_present": true,
+          "brand_data": [
+            {
+              "response": "The tread design affects grip, noise levels, and water dispersion. Ensure the tread depth meets the legal minimum to maintain safety and performance.",
+              "citation": "https://www.michelin.in/auto/advice/tyre-basics?utm_source=openai",
+              "rank": 1
+            }
+          ],
+          "competition_data": []
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Electric mobility and sustainable tyre solutions",
+    "response": [
+      {
+        "query": "What are the benefits of electric vehicle tyres?",
+        "response": {
+          "brand_present": false,
+          "brand_data": [],
+          "competition_data": [
+            {
+              "name": "Pirelli",
+              "response": "EV tires are designed with low rolling resistance, which reduces the energy required to move the vehicle. This efficiency can lead to an increase in battery range by up to 10%, allowing for longer drives between charges.",
+              "citation": "https://www.pirelli.com/tires/en-us/car/tech-and-knowledge/elect?utm_source=openai",
+              "rank": 1
+            },
+            {
+              "name": "Consumer Reports",
+              "response": "Due to the additional weight of battery packs, EVs are heavier than traditional vehicles. EV-specific tires feature reinforced sidewalls and robust construction to support this extra weight, resulting in improved durability and longevity.",
+              "citation": "https://www.consumerreports.org/cars/tires/do-electric-vehicles-need-special-tires-a4689725362/?utm_source=openai",
+              "rank": 2
+            },
+            {
+              "name": "Green Cars",
+              "response": "The instant torque delivery of electric motors requires tires with excellent grip. EV tires are crafted with specialized tread patterns and rubber compounds to provide optimal traction, ensuring safe and responsive handling during rapid acceleration and braking.",
+              "citation": "https://www.greencars.com/expert-insights/ev-tires-vs-traditional-tires?utm_source=openai",
+              "rank": 3
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "theme": "Promotions and dealer locator services",
+    "response": [
+      {
+        "query": "Where can I find tyre promotions and discounts in India?",
+        "response": {
+          "brand_present": false,
+          "brand_data": [],
+          "competition_data": [
+            {
+              "name": "Tyremarket.com",
+              "response": "Tyremarket.com offers several discounts: - Speed Saver Offer: 10% off on selected brands using promo code `SPEEDSAVE`. - Goodyear Tyre Offer: 5% off on all Goodyear car tyres with promo code `GY5`. - JK Tyre Offer: 5% off on all JK car tyres using promo code `JK5`. - Pirelli Tyre Offer: 10% off on selected Pirelli car tyres with promo code `PIRELL10`. - Vredestein Tyre Offer: 5% off on all Vredestein tyres using promo code `VRED5`. For more details, visit their offers page.",
+              "citation": "https://www.tyremarket.com/offers.html",
+              "rank": 1
+            },
+            {
+              "name": "Apollo Tyres",
+              "response": "Apollo Tyres is running an Exchange Festival where you can trade in your old tyres for instant discounts up to \u20b93,000 on new car and bike tyres. Visit your nearest Apollo dealership to avail this offer. More information is available on their blog.",
+              "citation": "https://www.apollotyres.com/en-in/stories/blogs/driving-tips/buy-new-car-bike-tyres-during-the-apollo-exchange-festival-for-instant-discounts-up-to-3-000/",
+              "rank": 2
+            },
+            {
+              "name": "Tyresnmore",
+              "response": "Tyresnmore provides various discounts: - Flat 3% Off: Use promo code `HOMEDEL3` to get 3% off, up to \u20b96,000, on all items. - Up to \u20b94,000 Off: Apply promo code `TNM4000` for 2% off, up to \u20b94,000, on your purchases. Additional offers are listed on their coupons page.",
+              "citation": "https://www.grabon.in/tyresnmore-coupons/",
+              "rank": 3
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
